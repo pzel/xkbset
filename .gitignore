@@ -1,0 +1,8 @@
+*.core
+*.o
+config_usage
+getargs.c
+print.c
+usage.c
+xkbset
+xkbset.1
